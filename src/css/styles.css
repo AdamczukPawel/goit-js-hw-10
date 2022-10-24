@@ -1,5 +1,7 @@
 * {
   box-sizing: border-box;
+  list-style-type: none;
+  padding: 0;
 }
 
 body {
@@ -17,4 +19,20 @@ body {
   padding: 8px;
   max-width: 320px;
   margin-bottom: 16px;
+}
+
+.country-list-element {
+  margin-bottom: 10px;
+}
+
+.big-flag {
+  margin-right: 10px;
+}
+
+.coutry-data {
+  margin-bottom: 10px;
+}
+
+.coutry-data-type {
+  font-weight: 500;
 }
